@@ -9,6 +9,9 @@ The EMR cluster had 4 instances(1 master and 3 core nodes) of g4dn.2xlarge (an a
 
 I started working on the subset(128 MB) of the full data to explore the data with spark local mode and pandas dataframe. Then I used the code to created a ML model to perform the training on AWS EMR notebook.
 
+<h2>File description</h2>
+<p>Notebook_Subset.ipynb is the notebook created to work with the subset of data.</p>
+<p>Notebook.ipynb is the notebook created to work with the full data on AWS EMR Notebook.</p>
 
 
 ![Certificate.PNG](https://github.com/Shayan-ShA/Starbucks-Capstone-Challenge/blob/main/Certificate.PNG)
