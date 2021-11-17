@@ -4,7 +4,7 @@ As the capstone project for the Udacity Data Scientist Nano-degree program, I wo
 The EMR cluster had 4 instances(1 master and 3 core nodes) of g4dn.2xlarge (an accelerated computing instance) type. 
 
 
-[This](https://aws.amazon.com/ec2/instance-types) is the link to the features of the instance.
+[This](https://aws.amazon.com/ec2/instance-types) is the link to the features of the EC2 instances.
 
 
 I started working on the subset(128 MB) of the full data to explore the data with spark local mode and pandas dataframe. Then I used the code to created a ML model to perform the training on AWS EMR notebook.
